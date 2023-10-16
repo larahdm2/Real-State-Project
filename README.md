@@ -21,8 +21,7 @@ This project has allowed me to gain insights into the real estate market in Bilb
 <p>
 The dataset was extracted from Fotocasa and Idealista. I scraped the Fotocasa website and extracted information using the Idealista API. Scraping Fotocasa was particularly challenging due to the lack of tutorials or readily available information on the process. Regarding Idealista, I'd like to emphasize that efficiency was key. I had to preselect the specific properties I wanted to retrieve to optimize the process and minimize errors, given that the API only permits 100 requests per month, with a limit of 50 items per request.
 <p>
-In order to respect the websites, I won't be sharing the datasets obtained from them.
-<p>
+
   
 
 </details>
@@ -36,6 +35,8 @@ In order to respect the websites, I won't be sharing the datasets obtained from 
   - Fotocasa extraction and analysis notebooks: fotocasa_scrapping and fotocasa_reform_analysis
   <p>
   - Idealista extraction and analysis notebooks: idealista_api and idealista_reform_analysis
-   <p>
+  <p>
+  In order to respect the websites, I won't be sharing the datasets obtained from them.
+  <p>
   This is the link to the Tableau work:
   https://public.tableau.com/app/profile/lara.hern.ndez/viz/project_real_state/Dashboard1
